@@ -30,7 +30,7 @@ export default function Experience() {
     <div id="experience">
       <nav className="flex justify-center items-center space-x-4">
         <button
-          className="rounded-lg px-3 py-2 text-[#334155] font-medium hover:bg-[#F0BF9B] hover:text-[#0f172a]"
+          className="rounded-lg px-3 py-2 text-[#334155] font-medium hover:bg-[#F0BF9B] hover:text-[#0f172a] border-[#F0BF9A] border-b-1"
           onClick={() => {
             setExperience(false);
           }}
@@ -38,7 +38,7 @@ export default function Experience() {
           Estudios
         </button>
         <button
-          className="rounded-lg px-3 py-2 text-[#334155] font-medium hover:bg-[#F0BF9B] hover:text-[#0f172a]"
+          className="rounded-lg px-3 py-2 text-[#334155] font-medium hover:bg-[#F0BF9B] hover:text-[#0f172a] border-[#F0BF9A] border-b-1"
           onClick={() => {
             setExperience(true);
           }}

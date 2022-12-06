@@ -1,6 +1,6 @@
 export default function NavBar() {
   return (
-    <nav className="flex sm:justify-center items-center flex-col sm:flex-row sm:items-baseline sm:space-x-4">
+    <nav className="flex sm:justify-center items-center flex-col sm:flex-row sm:items-baseline sm:space-x-4 py-4">
       {[
         ["Sobre mí", "#about"],
         ["Experiencia", "#experience"],
