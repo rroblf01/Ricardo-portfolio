@@ -13,6 +13,7 @@ export default function Experience() {
   }];
 
   const experience = [
+    { title: "Actualidad", date: " " },
     { title: "QDQmedia, Programador Back-end", date: "02/2022 - Actualidad" },
     {
       title: "HP SCDS, Ingeniero del Software",
