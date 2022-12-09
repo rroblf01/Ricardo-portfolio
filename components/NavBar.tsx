@@ -4,7 +4,7 @@ export default function NavBar() {
       {[
         ["Sobre mí", "#about"],
         ["Experiencia", "#experience"],
-        ["Proyectos", "#projects"],
+        ["Tecnologías", "#tech"],
         ["Contáctame", "#contact"],
       ].map(([title, url]) => (
         <a

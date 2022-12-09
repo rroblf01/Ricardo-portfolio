@@ -44,7 +44,7 @@ export default function Technologies() {
   ];
 
   return (
-    <div className="text-center">
+    <div id="tech" className="text-center">
       <h3 className="text-2xl mt-10 mt-16">
         Tecnologías con las que me siento cómodo trabajando
       </h3>
