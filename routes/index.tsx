@@ -3,7 +3,7 @@ import NavBar from "../components/NavBar.tsx";
 import About from "../components/About.tsx";
 import Experience from "../islands/Experience.tsx";
 import Contact from "../components/Contact.tsx";
-import Projects from "../islands/Projects.tsx";
+import Technologies from "../components/Technologies.tsx";
 export default function Home() {
   return (
     <>
@@ -17,7 +17,7 @@ export default function Home() {
             <NavBar />
             <About />
             <Experience />
-            <Projects />
+            <Technologies />
             <Contact />
           </section>
         </main>

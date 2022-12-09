@@ -5,10 +5,10 @@ export default function Experience() {
   const [isExperience, setExperience] = useState(false);
 
   const estudios = [{ title: "Actualidad", date: " " }, {
-    title: "Ingeniería informatica",
+    title: "Ingeniería informatica (Finalizado)",
     date: "Universidad de León",
   }, {
-    title: "Bachillerato científico",
+    title: "Bachillerato científico (Finalizado)",
     date: "IES Juan del Enzina",
   }];
 
